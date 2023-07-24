@@ -8,7 +8,7 @@ public class Main {
         contactList.addToEnd(new Contact(255, "Петров Петр Петрович", "+79854186234"));
         contactList.addToEnd(new Contact(423, "Сидоров Сидор Артемьевич", "+79765847596"));
         contactList.addToEnd(new Contact(578, "Горбылев Станислав Степанович", "+79241569856"));
-        contactList.addToEnd(new Contact(721, "смирнова Ирина Анисимовна", "+79623584986"));
+        contactList.addToEnd(new Contact(721, "Смирнова Ирина Анисимовна", "+79623584986"));
 
         for (Object contact : contactList) {
             System.out.println(contact);
